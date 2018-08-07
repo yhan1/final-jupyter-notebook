@@ -1,1 +1,1 @@
-# Lasso thing
+# Industry return dependencies
